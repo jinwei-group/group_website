@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2024-2-24
 
 type: landing
 
@@ -9,61 +9,35 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+        香港理工大学（理大）靳伟教授研究团队聚焦微纳结构光纤光子学的研究前沿，积极探索其在精密测量仪器、光子传感等领域的应用，并已在上述领域取得了突出的研究成果，近期在Nature Communications、Optica 等顶级专业期刊发表论文多篇，博士研究生多次在International Conference on Optical Fiber Sensors (OFS)等高层次国际会议上斩获优秀论文奖。
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+        团队科研经费充足，在理大本部和理大深圳研究院均配备有高水平实验平台和先进的仪器设备。目前承担香港政府资助基础研究计划、国家重大科学仪器研制、国家重点研发计划、广东-香港团队联合研发计划等多个科研项目。近期计划招收博士后、博士及研究助理多名。
+
+        一、主要研究方向：
+        1. 空芯和微纳光纤拉曼气体光谱学实验及应用研究
+        2. 微结构光纤光热和光声光谱学理论、实验和应用研究
+        3. 基于微纳结构光纤的多组分激光光谱气体分析仪器的研究和开发
+        4. 基于光热效应、拉曼效应的光调制和开关器件
+
+        二、招聘条件和薪酬待遇
+        博士后：近三年内获得或六个月内将要获得光学或光电工程、仪器科学与技术、物理学、电子科学与技术、信息与通信工程等相关专业的博士学位，年龄在35周岁以下，具备较高的学术水平和较强的科研能力。
+        薪酬根据工作经历、成果和科研水平而定，在香港本部薪酬不低于28,000港币/月；在深圳研究院税后年薪不低于30万人民币（含深圳市博士后生活补贴），支持申请中国博士后基金、国家基金委及地方性科研项目。
+        有意向者可将个人简历发送至任一联系人。
+
+        博士：已获得或在12个月内将要获得相关专业（光学或光电工程、仪器科学与技术、物理学、电子科学与技术、信息与通信工程等）的硕士或学士学位的优秀学生；托福成绩不低于 80或雅思不低于 6.5。
+        奖学金：17,400港币/月，优秀学生可以在此基础上进一步申请香港政府奖学金（25,800港币/月）。
+        有意向者可将个人简历、本科成绩单以及英语测试成绩单发送至任一联系人，特别优秀者英语成绩可在发放正式入学offer前提交。
+
+        研究助理：已获得或在12个月内将要获得相关专业（光学或光电工程、仪器科学与技术、物理学、电子科学与技术、信息与通信工程等）的硕士或学士学位的优秀学生。
+        薪酬根据工作经历和学术成绩而定，不低于15,000港币/月。若有意继续深造且在助理研究期间通过托福或雅思考试，支持申请攻读博士学位。
+        有意向者可将个人简历及本科成绩单发送至任一联系人。
+
+        三、联系方式：
+        姜寿林，邮箱：shoulin.jiang@polyu.edu.hk，
+        电话：18217506992（微信同号）；
+
+        齐云同学，电子邮箱：yun.qi@connect.polyu.hk，
+        QQ：2435010526；
+
+        靳伟教授，电子邮箱：eewjin@polyu.edu.hk
 ---
