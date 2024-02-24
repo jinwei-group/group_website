@@ -1,47 +1,54 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2024-2-24
+title: Tour
+date: 2022-10-24
+
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        Jin Wei
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        香港理工大学（理大）靳伟教授研究团队聚焦微纳结构光纤光子学的研究前沿，积极探索其在精密测量仪器、光子传感等领域的应用，并已在上述领域取得了突出的研究成果，近期在Nature Communications、Optica 等顶级专业期刊发表论文多篇，博士研究生多次在International Conference on Optical Fiber Sensors (OFS)等高层次国际会议上斩获优秀论文奖。
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      slides:
+      - title: Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: shenzhenbase.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      # - title: Lunch & Learn ☕️
+      #   content: 'Share your knowledge with the group and explore exciting new topics together!'
+      #   align: left
+      #   background:
+      #     image:
+      #       filename: contact.jpg
+      #       filters:
+      #         brightness: 0.7
+      #     position: center
+      #     color: '#555'
+      # - title: World-Class Semiconductor Lab
+      #   content: 'Just opened last month!'
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
+      #   link:
+      #     icon: graduation-cap
+      #     icon_pack: fas
+      #     text: Join Us
+      #     url: ../contact/
     design:
-      view: card
-      columns: '1'
-  
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2000
 ---
