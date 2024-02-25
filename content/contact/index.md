@@ -19,7 +19,8 @@ sections:
         3. Research and development of multi-component laser spectral gas analysis instrument based on micro-nano structure fiber
         4. Optical modulation and switching devices based on photothermal effect and Raman effect
 
-        二、招聘条件和薪酬待遇
+        二、招聘条件和薪酬待遇:
+        
         博士后：近三年内获得或六个月内将要获得光学或光电工程、仪器科学与技术、物理学、电子科学与技术、信息与通信工程等相关专业的博士学位，年龄在35周岁以下，具备较高的学术水平和较强的科研能力。
         薪酬根据工作经历、成果和科研水平而定，在香港本部薪酬不低于28,000港币/月；在深圳研究院税后年薪不低于30万人民币（含深圳市博士后生活补贴），支持申请中国博士后基金、国家基金委及地方性科研项目。
         有意向者可将个人简历发送至任一联系人。
