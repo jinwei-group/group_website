@@ -9,15 +9,15 @@ sections:
     content:
       title: Contact
       text: |-
-        香港理工大学（理大）靳伟教授研究团队聚焦微纳结构光纤光子学的研究前沿，积极探索其在精密测量仪器、光子传感等领域的应用，并已在上述领域取得了突出的研究成果，近期在Nature Communications、Optica 等顶级专业期刊发表论文多篇，博士研究生多次在International Conference on Optical Fiber Sensors (OFS)等高层次国际会议上斩获优秀论文奖。
+        The research team of Professor Wei Jin of the Hong Kong Polytechnic University (PolyU) focuses on the research frontier of micro-nano structure fiber photonics, actively explores its application in precision measurement instruments, photonic sensing and other fields, and has made outstanding research achievements in the above fields. He has recently published several papers in top professional journals such as Nature Communications and Optica. His PhD students have won many outstanding paper awards in high-level International conferences such as the International Conference on Optical Fiber Sensors (OFS).
 
-        团队科研经费充足，在理大本部和理大深圳研究院均配备有高水平实验平台和先进的仪器设备。目前承担香港政府资助基础研究计划、国家重大科学仪器研制、国家重点研发计划、广东-香港团队联合研发计划等多个科研项目。近期计划招收博士后、博士及研究助理多名。
+        The team has sufficient research funding and is equipped with high-level experimental platforms and advanced equipment in PolyU headquarters and Polyu Shenzhen Research Institute. At present, it undertakes many scientific research projects, such as the basic Research Program funded by the Hong Kong Government, the development of National major scientific instruments, the National Key Research and Development Program, and the Guangdong-Hong Kong Team Joint Research and Development Program. In the near future, we plan to recruit more postdocs, PHDS and research assistants.
 
-        一、主要研究方向：
-        1. 空芯和微纳光纤拉曼气体光谱学实验及应用研究
-        2. 微结构光纤光热和光声光谱学理论、实验和应用研究
-        3. 基于微纳结构光纤的多组分激光光谱气体分析仪器的研究和开发
-        4. 基于光热效应、拉曼效应的光调制和开关器件
+        I. Main research directions:
+        1. Experimental and application research on Raman gas spectroscopy of hollow core and micro/nano fiber
+        2. Theoretical, experimental and applied research on photothermal and photoacoustic spectroscopy of microstructured optical fibers
+        3. Research and development of multi-component laser spectral gas analysis instrument based on micro-nano structure fiber
+        4. Optical modulation and switching devices based on photothermal effect and Raman effect
 
         二、招聘条件和薪酬待遇
         博士后：近三年内获得或六个月内将要获得光学或光电工程、仪器科学与技术、物理学、电子科学与技术、信息与通信工程等相关专业的博士学位，年龄在35周岁以下，具备较高的学术水平和较强的科研能力。
