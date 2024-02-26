@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Mengrui Han
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Mengrui
+last_name: Han
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - hmr
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 24 spring PHD student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Hong Kong Polytechnic University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
+  - fibre-optics
+  - Data analysis
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   courses:
