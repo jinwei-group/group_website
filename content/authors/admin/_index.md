@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-    - course: PhD
+    - course: Doctor of Philosophy
       institution: University of Strathclyde
       year: 1991
     - course: Master of Science
       institution: Beijing University of Aeronautics and Astronautics
       year: 1987
-    - course: BSc in Engineering
+    - course: Bachelor of Engineering
       institution: Beijing University of Aeronautics and Astronautics
       year: 1984
 
