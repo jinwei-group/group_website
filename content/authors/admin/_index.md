@@ -47,7 +47,7 @@ social:
     link: 'mailto:wei.jin@polyu.edu.hk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=dDKtmysAAAAJ
+    link: https://scholar.google.com/citations?user=dDKtmysAAAAJ&hl=zh-CN&oi=sra
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'An example conference paper'
 
 # Authors
@@ -40,4 +40,4 @@ url_pdf: ''
 
 
 ---
-
+ -->
