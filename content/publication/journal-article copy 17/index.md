@@ -1,8 +1,8 @@
 ---
-title: "Ultrahigh-resolution fiber-optic sensing system with an ultra-simple system and broadband light"
+title: "Broadband all-fiber optical phase modulator based on photo-thermal effect in a gas-filled hollow-core fiber"
 authors:
 # - admin
-- S Liu, Q Liu, S Zhao, S Jiang, W Jin, Z He
+- S Jiang, F Chen, Y Zhao, S Gao, Y Wang
 doi: "https://doi.org/10.29026/oea.2023.220085"
 
 # Schedule page publish date (NOT publication's date).
