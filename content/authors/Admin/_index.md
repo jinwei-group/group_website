@@ -41,10 +41,10 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:wei.jin@polyu.edu.hk'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'wei.jin@polyu.edu.hk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dDKtmysAAAAJ&hl=zh-CN&oi=sra
@@ -77,3 +77,5 @@ Dr Jin’s research interests include photonic crystal fiber devices, optical fi
 He received the President Award of the Hong Kong Polytechnic University in 1999 for outstanding performance in Research and Scholarly Activities, the Hong Kong Polytechnic University PTeC’s Outstanding Professional Service and Innovation Awards in 2004 for successful technology transfer, the Hong Kong Polytechnic University Overseas Placement Award for Young Professors,  Research Grant Achievement Awards from Faculty of Engineering of the Hong Kong Polytechnic University in 2005, 2008, 2011 and 2016, Distinguished Young Scholar Award (Category B) from the National Science Foundation of China in 2006, Chiang Jiang Chair Professor award from Ministry of Education of China in 2009, and seven best conference paper/student paper awards.
 
 Professor Jin is a fellow of OSA, a senior member of IEEE and SPIE, a director of the Optical Society of China and a vice Chairman of the Fiber and Integrated Optics Specialty Committee of the Optical Society of China. He was the Co-Chair of the 25th International Conference on Optical Fiber Sensors and the Technical Chair of the 22nd International Conference on Optical Fiber Sensors.
+
+email: wei.jin@polyu.edu.hk
