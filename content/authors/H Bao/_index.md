@@ -44,9 +44,9 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'haihong.bao@polyu.edu.hk'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ
   # - icon: search
   #   icon_pack: fas
   #   link: https://pczhao.cn/
