@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Haihong Bao
+title: Shuangxiang Zhao
 
 # Full Name (for SEO)
-first_name: Haihong
-last_name: Bao
+first_name: Shuangxiang
+last_name: Zhao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant Professor
+role: Postdoc Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,18 @@ bio:
 
 interests:
   - Fiber sensing
-  - Laser spectroscopy
+  - Fiber optic gyro
+  - Micro nano fiber gas sensor
+  - Laser frequency stabilization
 
 education:
   courses:
     - course: Doctor of Philosophy
-      institution: Hong Kong Polytechnic University
+      institution: Shanghai Jiao Tong University
       year: 2016
-    - course: Master of Science
-      institution: University of Electronic Science and Technology of China
-      year: 2013
     - course: Bachelor of Engineering
       institution: University of Electronic Science and Technology of China
-      year: 2009
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -43,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'haihong.bao@polyu.edu.hk'
+    link: 'shzhao@polyu.edu.hk'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ
@@ -58,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'haihong.bao@polyu.edu.hk'
+email: 'shzhao@polyu.edu.hk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -66,7 +65,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdoc Fellows
 ---
-Email: haihong.bao@polyu.edu.hk
-Office: CF615
