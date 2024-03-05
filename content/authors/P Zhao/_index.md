@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'zhaopc@buaa.edu.cn'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'zhaopc@buaa.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ
@@ -67,4 +67,5 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Postdoc Fellows
----
+--
+email: zhaopc@buaa.edu.cn

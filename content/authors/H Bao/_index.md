@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'haihong.bao@polyu.edu.hk'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'haihong.bao@polyu.edu.hk'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ
@@ -68,5 +68,9 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
+Dr. Haihong BAO received his B.Eng. and M.Eng. degrees from the University of Electronic Science and Technology of China in 2013 and 2016, respectively. He received his Ph.D. degree from the Hong Kong Polytechnic University in 2020. Afterward, he joined the Department of Electrical Engineering at Hong Kong Polytechnic University as a Postdoctoral Fellow. Currently, Dr. BAO holds the position of Research Assistant Professor in the Department of Electrical Engineering at the Hong Kong Polytechnic University. Dr. BAO's research interests focus on fundamental aspects of light-matter (gas) interaction in micro-structured optical fibers, with the aim of developing advanced spectroscopic techniques for ultra-sensitive and selective gas sensing.
+
 Email: haihong.bao@polyu.edu.hk
+
 Office: CF615
+
