@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'shzhao@polyu.edu.hk'
+    link: 'mailto:shzhao@polyu.edu.hk'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ

@@ -43,12 +43,12 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhaopc@buaa.edu.cn'
+    link: 'mailto:zhaopc@buaa.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ
-  - icon: github
-    icon_pack: fab
+  - icon: user
+    icon_pack: fas
     link: https://pczhao.cn/
 
 # Link to a PDF of your resume/CV from the About widget.
