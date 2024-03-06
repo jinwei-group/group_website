@@ -70,4 +70,4 @@ email: ''
 user_groups:
   - PHD Students
 ---
-email: jingwen.wun@connect.polyu.hk
+email: jingwen.wu@connect.polyu.hk
