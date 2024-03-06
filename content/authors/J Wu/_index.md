@@ -32,15 +32,12 @@ interests:
 
 education:
   courses:
-    - course: Doctor of Philosophy
-      institution: Hong Kong Polytechnic University
-      year: 2022
     - course: Master of Science
       institution: Tianjin University
-      year: 2019
+      year: 2022
     - course: Bachelor of Engineering
       institution: Xiamen University
-      year: 2015
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,4 +67,3 @@ email: ''
 user_groups:
   - PHD Students
 ---
-email: jingwen.wu@connect.polyu.hk

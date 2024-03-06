@@ -28,13 +28,13 @@ education:
   courses:
     - course: Doctor of Philosophy
       institution: Hong Kong Polytechnic University
-      year: 2016
+      year: 2020
     - course: Master of Science
       institution: University of Electronic Science and Technology of China
-      year: 2013
+      year: 2016
     - course: Bachelor of Engineering
       institution: University of Electronic Science and Technology of China
-      year: 2009
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research Fellows
 ---
 Dr. Haihong BAO received his B.Eng. and M.Eng. degrees from the University of Electronic Science and Technology of China in 2013 and 2016, respectively. He received his Ph.D. degree from the Hong Kong Polytechnic University in 2020. Afterward, he joined the Department of Electrical Engineering at Hong Kong Polytechnic University as a Postdoctoral Fellow. Currently, Dr. BAO holds the position of Research Assistant Professor in the Department of Electrical Engineering at the Hong Kong Polytechnic University. Dr. BAO's research interests focus on fundamental aspects of light-matter (gas) interaction in micro-structured optical fibers, with the aim of developing advanced spectroscopic techniques for ultra-sensitive and selective gas sensing.
 

@@ -31,15 +31,12 @@ interests:
 
 education:
   courses:
-    - course: Doctor of Philosophy
-      institution: Hong Kong Polytechnic University
-      year: 2024
     - course: Master of Science
       institution: Imperial College London
-      year: 2022
+      year: 2023
     - course: Bachelor of Engineering
       institution: Beijing University of Technology
-      year: 2017
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,4 +66,3 @@ email: ''
 user_groups:
   - PHD Students
 ---
-email: mengrui.han@connect.polyu.hk

@@ -66,4 +66,3 @@ highlight_name: true
 user_groups:
   - Postdoc Fellows
 ---
-email: kai-yuan.zheng@polyu.edu.hk
