@@ -11,11 +11,10 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - PI
-          - Research Fellows
-          - Postdoc Fellows
-          - PHD Students
-          - Grad Students
+          - Principal Investigator
+          - Research Assistant Professor
+          - Postdoc Fellows 
+          - Graduate Students
           - Administration
           - Visitors
       sort_by: Params.last_name

@@ -67,7 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PI
+  - Principal Investigator
 ---
 
 Wei Jin currently holds the position of Chair Professor of Photonic Instrumentation in Department of Electrical Engineering at the Hong Kong Polytechnic University. He obtained his BEng and MSc from Beijing University of Aeronautics and Astronautics in 1984 and 1987, respectively. He received his Ph.D in Optoelectronics from University of Strathclyde, Scotland, UK, in 1991.  From 1991 to 1995, he was employed as a Postdoctoral Research Fellow at Strathclyde University. He joined the Hong Kong Polytechnic University as an Assistant Professor in 1996, was promoted to an Associate Professor in 1998 and a Professor in 2003.
