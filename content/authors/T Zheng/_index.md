@@ -46,9 +46,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:tianyan.zheng@polyu.edu.hk'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=h-Qs-_IAAAAJ&hl=zh-CN
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=c__qhxoAAAAJ&hl=en
 
 
 # Link to a PDF of your resume/CV from the About widget.
