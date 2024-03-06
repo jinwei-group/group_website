@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhaopc@buaa.edu.cn'
+    link: 'mailto:kai-yuan.zheng@polyu.edu.hk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=h-Qs-_IAAAAJ&hl=zh-CN
@@ -66,4 +66,4 @@ highlight_name: true
 user_groups:
   - Postdoc Fellows
 ---
-email: zhaopc@buaa.edu.cn
+email: kai-yuan.zheng@polyu.edu.hk
