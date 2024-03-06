@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Tianye Zheng
+title: Tianye (Darren) Zheng
 
 # Full Name (for SEO)
-first_name: Tianye
+first_name: Tianye (Darren)
 last_name: Zheng
 
 # Is this the primary user of the site?
