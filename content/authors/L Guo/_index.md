@@ -33,10 +33,10 @@ education:
   courses:
     - course: Master of Science
       institution: Central South University
-      year: 2021
+      year: 2019
     - course: Bachelor of Engineering
       institution: Central South University
-      year: 2019
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
