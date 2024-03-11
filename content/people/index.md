@@ -15,6 +15,7 @@ sections:
           - Research Assistant Professor
           - Postdoc Fellows 
           - Graduate Students
+          - Technical Staff
           - Administration
           - Visitors
       sort_by: Params.last_name
