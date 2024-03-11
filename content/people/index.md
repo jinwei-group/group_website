@@ -13,9 +13,9 @@ sections:
       user_groups:
           - Principal Investigator
           - Research Assistant Professor
+          - Technical Staff
           - Postdoc Fellows 
           - Graduate Students
-          - Technical Staff
           - Administration
           - Visitors
       sort_by: Params.last_name
