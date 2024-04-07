@@ -1,5 +1,5 @@
 ---
-title: New paper accepted by LASER&PHOTONICS REVIEWS
+title: New paper was accepted by LASER&PHOTONICS REVIEWS
 
 date: 2024-01-02
 ---
