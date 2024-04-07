@@ -1,8 +1,9 @@
 ---
-title: Our paper entitled "Waveguide-Based On-Chip Photothermal Spectroscopy for Gas Sensing" was accepted by LASER&PHOTONICS REVIEWS
+title: New paper accepted by LASER&PHOTONICS REVIEWS
 
 date: 2024-01-02
 ---
+Our paper entitled "Waveguide-Based On-Chip Photothermal Spectroscopy for Gas Sensing" was accepted by LASER&PHOTONICS REVIEWS
 
 <!--more-->
 
